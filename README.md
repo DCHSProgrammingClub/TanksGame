@@ -1,4 +1,4 @@
 TanksGame
 =========
 
-The game of Tanks, where two tanks take aim at each other and try to destroy the other using bombs.
+A game where tanks shoot at each other and try to destroy each other.
